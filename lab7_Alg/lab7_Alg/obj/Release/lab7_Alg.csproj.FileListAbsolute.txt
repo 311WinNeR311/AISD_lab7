@@ -1,0 +1,10 @@
+D:\st\labsAlg\lab7_Alg\lab7_Alg\bin\Release\lab7_Alg.exe.config
+D:\st\labsAlg\lab7_Alg\lab7_Alg\bin\Release\lab7_Alg.exe
+D:\st\labsAlg\lab7_Alg\lab7_Alg\bin\Release\lab7_Alg.pdb
+D:\st\labsAlg\lab7_Alg\lab7_Alg\obj\Release\lab7_Alg.Form1.resources
+D:\st\labsAlg\lab7_Alg\lab7_Alg\obj\Release\lab7_Alg.Properties.Resources.resources
+D:\st\labsAlg\lab7_Alg\lab7_Alg\obj\Release\lab7_Alg.csproj.GenerateResource.Cache
+D:\st\labsAlg\lab7_Alg\lab7_Alg\obj\Release\lab7_Alg.csproj.CoreCompileInputs.cache
+D:\st\labsAlg\lab7_Alg\lab7_Alg\obj\Release\lab7_Alg.exe
+D:\st\labsAlg\lab7_Alg\lab7_Alg\obj\Release\lab7_Alg.pdb
+D:\st\labsAlg\lab7_Alg\lab7_Alg\obj\Release\lab7_Alg.csprojResolveAssemblyReference.cache
